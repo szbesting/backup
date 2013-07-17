@@ -1,0 +1,6 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+ART.name=ART
+ART.communication=usb
+ART.protocol=USB
+ART.speed=9600
